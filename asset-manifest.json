@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VaskaNakie/todoapp.git/static/css/main.3fc47182.css",
+    "main.js": "/VaskaNakie/todoapp.git/static/js/main.6d4d8cf7.js",
+    "static/js/787.b8fa26a9.chunk.js": "/VaskaNakie/todoapp.git/static/js/787.b8fa26a9.chunk.js",
+    "index.html": "/VaskaNakie/todoapp.git/index.html",
+    "main.3fc47182.css.map": "/VaskaNakie/todoapp.git/static/css/main.3fc47182.css.map",
+    "main.6d4d8cf7.js.map": "/VaskaNakie/todoapp.git/static/js/main.6d4d8cf7.js.map",
+    "787.b8fa26a9.chunk.js.map": "/VaskaNakie/todoapp.git/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc47182.css",
+    "static/js/main.6d4d8cf7.js"
+  ]
+}
