@@ -16,16 +16,10 @@ function App() {
         },
         {
             id: 2,
-            text: 'Click the "Add" button to create a new task and the "X" to remove them.',
+            text: 'Click the "Add" button to create a new task.',
             day: 'Feb 6th at 4:48pm',
             reminder: true,
-        },
-        {
-            id: 3,
-            text: 'The green bar on the left side indicates weather you set a reminder for the task.',
-            day: 'Feb 15th at 2:24pm',
-            reminder: true,
-        },
+        }
     ]
   )
 
