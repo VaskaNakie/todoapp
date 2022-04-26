@@ -21,7 +21,7 @@ function App() {
             reminder: true,
         },
         {
-            id: 2,
+            id: 3,
             text: 'The green bar on the left side indicates weather you set a reminder for the task.',
             day: 'Feb 15th at 2:24pm',
             reminder: true,
