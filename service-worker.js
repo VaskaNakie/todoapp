@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/VaskaNakie/todoapp/precache-manifest.6065083e6aee13ca556119e5977ea009.js"
+  "/VaskaNakie/todoapp/precache-manifest.38b62910f551b0035fdf4e3118d72eee.js"
 );
 
 workbox.clientsClaim();

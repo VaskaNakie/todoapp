@@ -1,7 +1,7 @@
 {
   "main.css": "/VaskaNakie/todoapp/static/css/main.def9cecd.chunk.css",
-  "main.js": "/VaskaNakie/todoapp/static/js/main.18997e29.chunk.js",
-  "main.js.map": "/VaskaNakie/todoapp/static/js/main.18997e29.chunk.js.map",
+  "main.js": "/VaskaNakie/todoapp/static/js/main.65f78938.chunk.js",
+  "main.js.map": "/VaskaNakie/todoapp/static/js/main.65f78938.chunk.js.map",
   "static/js/1.7ab2393a.chunk.js": "/VaskaNakie/todoapp/static/js/1.7ab2393a.chunk.js",
   "static/js/1.7ab2393a.chunk.js.map": "/VaskaNakie/todoapp/static/js/1.7ab2393a.chunk.js.map",
   "static/js/2.b0a9c849.chunk.js": "/VaskaNakie/todoapp/static/js/2.b0a9c849.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/VaskaNakie/todoapp/static/js/runtime~main.76c7b16c.js.map",
   "static/css/main.def9cecd.chunk.css.map": "/VaskaNakie/todoapp/static/css/main.def9cecd.chunk.css.map",
   "index.html": "/VaskaNakie/todoapp/index.html",
-  "precache-manifest.6065083e6aee13ca556119e5977ea009.js": "/VaskaNakie/todoapp/precache-manifest.6065083e6aee13ca556119e5977ea009.js",
+  "precache-manifest.38b62910f551b0035fdf4e3118d72eee.js": "/VaskaNakie/todoapp/precache-manifest.38b62910f551b0035fdf4e3118d72eee.js",
   "service-worker.js": "/VaskaNakie/todoapp/service-worker.js"
 }

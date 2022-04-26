@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "18997e2919836043743d",
+    "revision": "65f78938e403fabe4caf",
     "url": "/VaskaNakie/todoapp/static/css/main.def9cecd.chunk.css"
   },
   {
-    "revision": "18997e2919836043743d",
-    "url": "/VaskaNakie/todoapp/static/js/main.18997e29.chunk.js"
+    "revision": "65f78938e403fabe4caf",
+    "url": "/VaskaNakie/todoapp/static/js/main.65f78938.chunk.js"
   },
   {
     "revision": "7ab2393a9ad8c2b58dcd",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/VaskaNakie/todoapp/static/js/runtime~main.76c7b16c.js"
   },
   {
-    "revision": "2ce42053e2423f864a53ff7c7012c2fa",
+    "revision": "de6f0b10be2c5a727a15d7bca33d8e72",
     "url": "/VaskaNakie/todoapp/index.html"
   }
 ];
